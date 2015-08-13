@@ -1,0 +1,10 @@
+# UE4
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+
+# Visual Studio
+*.opensdf
+*.sdf
+*.suo
